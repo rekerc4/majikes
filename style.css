@@ -1,0 +1,25 @@
+/*
+Theme name: New Quick Theme
+Theme URI: empty
+Author: Kenneth Dailey
+Author URI: http://www.kennethdailey.com
+Description: A quick theme to begin populating my portfolio website.
+Liscence: For personal use. Not Liscenced.
+Tags: Three column, flexible header, add more as needed.
+*/
+
+body * {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  line-height: 1;
+}
+
+a{
+  text-decoration: none;
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
