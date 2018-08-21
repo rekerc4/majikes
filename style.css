@@ -1,25 +1,11 @@
 /*
-Theme name: New Quick Theme
+Theme name: Majikes Death Valley JDRF Bike Ride.
 Theme URI: empty
-Author: Kenneth Dailey
+Author:  Majikes Family Death Valley JDRF Bike Ride
 Author URI: http://www.kennethdailey.com
-Description: A quick theme to begin populating my portfolio website.
+Description: A quick theme for donations to the Majikes families Death Valley JDRF Bike Ride.
 Liscence: For personal use. Not Liscenced.
-Tags: Three column, flexible header, add more as needed.
+Tags: Charity, Bike Ride, Parallax Background, JDRF, Juvenile Diabetes Research Fund.
 */
 
-body * {
-  margin: 0px;
-  padding: 0px;
-  border: 0px;
-  line-height: 1;
-}
-
-a{
-  text-decoration: none;
-}
-
-img{
-  max-width: 100%;
-  max-height: 100%;
-}
+@import url('https://fonts.googleapis.com/css?family=Baloo|Bangers|Faster+One|Kalam|Nova+Script|Oregano|Quattrocento');
